@@ -42,7 +42,7 @@ img {
     width: calc((100% - 48px) / 3);
 }
 
-/* .gallery-link {} */
+.gallery-link {}
 
 .gallery-image {
     width: 360px;
